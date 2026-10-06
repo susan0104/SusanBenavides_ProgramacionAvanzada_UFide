@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Debug / cache
+*.pdb
+*.cache
+
+# NuGet
+packages/
+*.nupkg
